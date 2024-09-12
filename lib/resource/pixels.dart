@@ -1,0 +1,43 @@
+class Pixel {
+  static const pixel_0 = 00.0;
+  static const pixel_1 = 1.0;
+  static const pixel_2 = 2.0;
+  static const pixel_4 = 4.0;
+  static const pixel_5 = 5.0;
+  static const pixel_6 = 6.0;
+  static const pixel_8 = 8.0;
+  static const pixel_10 = 10.0;
+  static const pixel_12 = 12.0;
+  static const pixel_14 = 14.0;
+  static const pixel_16 = 16.0;
+  static const pixel_17 = 17.0;
+  static const pixel_18 = 18.0;
+  static const pixel_19 = 19.0;
+  static const pixel_20 = 20.0;
+  static const pixel_24 = 24.0;
+  static const pixel_25 = 25.0;
+  static const pixel_27 = 27.0;
+  static const pixel_30 = 30.0;
+  static const pixel_33 = 33.0;
+  static const pixel_34 = 34.0;
+  static const pixel_35 = 35.0;
+  static const pixel_36 = 36.0;
+  static const pixel_38 = 38.0;
+  static const pixel_40 = 40.0;
+  static const pixel_42 = 42.0;
+  static const pixel_52 = 52.0;
+  static const pixel_58 = 58.0;
+  static const pixel_64 = 64.0;
+  static const pixel_65 = 65.0;
+  static const pixel_67 = 67.0;
+  static const pixel_71 = 71.0;
+  static const pixel_76 = 76.0;
+  static const pixel_80 = 80.0;
+  static const pixel_90 = 90.0;
+  static const pixel_98 = 98.0;
+  static const pixel_100 = 100.0;
+  static const pixel_105 = 105.0;
+  static const pixel_150 = 150.0;
+
+// static const pixel_0 = 00.0;
+}
